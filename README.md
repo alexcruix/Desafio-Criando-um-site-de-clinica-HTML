@@ -1,4 +1,4 @@
-# Relato sobre o Desafio da Criação do Site
+# Desafio Dio, criando uma pagina de Clinica somente em HTML
 
 ## Introdução
 O desafio proposto foi a criação de um site para uma clínica médica, utilizando diversos conceitos aprendidos ao longo do módulo de HTML. Foi uma experiência muito bacana e enriquecedora, onde consegui aplicar o conhecimento adquirido de forma prática, o que reforçou meu aprendizado.
